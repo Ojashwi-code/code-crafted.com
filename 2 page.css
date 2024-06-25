@@ -1,0 +1,111 @@
+body{
+    background-image: linear-gradient(to left, #4ca1af , #c4e0e5);
+}
+#header{
+    display: inline-block;
+    border: 1px solid black;
+    width: 1350px;
+    height: 70px;
+    background-color: black;
+}
+#agi{text-decoration: none; color: beige;}
+#quantumcomputing{text-decoration: none; color: beige;}
+#3topic{color: beige;}
+#divhead{
+    font-size: 30px;
+    color: beige;
+    float: right;
+    padding-top: 20px;
+    word-spacing: 30px;
+    padding-right: 20px;
+}
+#webname{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(228, 103, 103);
+    float: initial;
+}
+
+#heading{
+    font-size:45px ;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#subh1{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#subh1p1{
+    font-size: 25px;
+    margin-left: 50px;
+}
+#subh1p2{
+    border:3px solid  rgb(0, 0, 0);
+    height: fit-content;
+    width: fit-content;
+    white-space: pre;
+    font-size: 25px;
+    margin-left: 230px;
+    padding-top: 10px;
+    background-color: rgb(255, 115, 0);
+}
+#subh1p3{
+    font-size: 25px;
+    margin-left: 50px;
+}
+#subh2{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#subh2p1{
+    font-size: 25px;
+    margin-left: 50px;
+}
+#subh2p2{
+    font-size: 25px;
+    margin-left: 50px;
+}
+#subh2p3{
+    border:3px solid  rgb(0, 0, 0);
+    height:fit-content ;
+    width: 900px;
+    font-size: 25px;
+    margin-left: 230px;
+    padding: 10px;
+    background-color: rgb(255, 115, 0);
+}
+#subh2p5{
+    font-size: 25px;
+    margin-left: 50px;
+}
+#subh2p6{
+    font-size: 25px;
+    margin-left: 50px;
+}
+#subh3{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#subh3p1{
+    font-size: 25px;
+    margin-left: 50px;
+}
+#subh4{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#subh4li{
+    font-size: 25px;
+    list-style-type: square;
+    margin-left: 50px;
+}
+#subh5{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#subh5li{
+    font-size: 25px;
+    list-style-type: square;
+    margin-left: 50px;
+}
